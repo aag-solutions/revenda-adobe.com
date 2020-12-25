@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//revenda-adobe.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://revenda-adobe.com/</loc>
+		<lastmod>2020-11-25T18:58:47-03:00</lastmod>
+		<image:image>
+			<image:loc>https://revenda-adobe.com/wp-content/uploads/elementor/thumbs/AAG-LOGO-PT-PNG-osmh5uyyn69f1xuca3vjzcifxzvaw3hrmcgd0d9ukg.png</image:loc>
+			<image:title><![CDATA[AAG-LOGO-PT-PNG]]></image:title>
+			<image:caption><![CDATA[AAG-LOGO-PT-PNG]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://revenda-adobe.com/wp-content/uploads/elementor/thumbs/cropped-adobe-2-ossytzpa2dtufntdlv8x7qdugy5x5ia4h4wp35wtts.jpg</image:loc>
+			<image:title><![CDATA[cropped-adobe-2]]></image:title>
+			<image:caption><![CDATA[cropped-adobe-2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://revenda-adobe.com/wp-content/uploads/2020/07/maxresdefault-1024x576.jpg</image:loc>
+			<image:caption><![CDATA[maxresdefault]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://revenda-adobe.com/wp-content/uploads/2020/07/creativecloud_wallpaper_1600x1200-1024x768-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://revenda-adobe.com/wp-content/uploads/2020/07/whats-in-adobe-creative-cloud.png</image:loc>
+		</image:image>
+	</url>
+</urlset>
